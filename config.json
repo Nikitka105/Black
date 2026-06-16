@@ -1,0 +1,14 @@
+{
+  "news_url": "https://vk.com",
+  "tech_url": "https://vk.com",
+  "donat_url": "https://your_site.ru/donate",
+  "client_version": "1.0.0",
+  "servers": [
+    {
+      "name": " Black ",
+      "ip": "80.242.59.112",
+      "port": 2833,
+      "is_online": true
+    }
+  ]
+}
